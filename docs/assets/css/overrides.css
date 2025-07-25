@@ -1,0 +1,10 @@
+/* 
+Overrides of the theme from HTML5 UP
+Keeping in a seperate file for easier updates
+*/
+
+@media screen and (max-width: 736px) {
+    #header p br {
+        display: block !important;
+    }
+}
